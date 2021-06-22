@@ -34,10 +34,11 @@ For forms built using [Drupal's WebForm](https://www.drupal.org/project/webform)
 ## Endpoints
 
 * [Submit a form](#submit-a-form)
-* [Form submission data](#form-submission-data)
+* [Query form submissions](#form-submission-data)
 * [Inspect a Schema](#inspect-a-schema)
-* [Debug a submission](#submission-debug-endpoint)
+* [Debug a submission](#debug-a-form)
     - [Example Response](#example-response)
+* [Set or Update Form schema](#schemata-set)
 
 ## Submit a form 
 
